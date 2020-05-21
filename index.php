@@ -23,11 +23,11 @@
             <div class="col-md-12">
                 <div class="row my-2">
                     <div class="col-1">Nama :</div>
-                    <div class="col-6">Mohammad Khusnul Khuluq</div>
+                    <div class="col-6">Khoirul Jannah</div>
                 </div>
                 <div class="row my-2">
                     <div class="col-1">Absen :</div>
-                    <div class="col-6">19</div>
+                    <div class="col-6">14</div>
                 </div>
                 <div class="row my-2">
                     <div class="col-1">Kelas :</div>
